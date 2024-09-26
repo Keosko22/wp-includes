@@ -1,0 +1,776 @@
+[08-Jul-2022 05:56:47 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Jul-2022 05:56:47 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Jul-2022 05:56:47 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Jul-2022 05:56:47 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Jul-2022 05:58:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[08-Jul-2022 23:45:59 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Jul-2022 23:45:59 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Jul-2022 23:45:59 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Jul-2022 23:45:59 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Jul-2022 23:46:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[09-Jul-2022 10:13:52 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[09-Jul-2022 10:13:52 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[09-Jul-2022 10:13:52 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[09-Jul-2022 10:13:52 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[09-Jul-2022 10:15:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[10-Jul-2022 02:14:12 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Jul-2022 02:14:12 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Jul-2022 02:14:12 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Jul-2022 02:14:12 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Jul-2022 02:14:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[10-Jul-2022 10:02:02 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Jul-2022 10:02:02 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Jul-2022 10:02:02 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Jul-2022 10:02:02 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Jul-2022 10:04:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[14-Jul-2022 07:26:11 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Jul-2022 07:26:11 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Jul-2022 07:26:11 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Jul-2022 07:26:11 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Jul-2022 07:26:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[14-Jul-2022 07:27:23 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Jul-2022 07:27:23 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Jul-2022 07:27:23 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Jul-2022 07:27:23 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Jul-2022 07:27:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[22-Jul-2022 10:38:24 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[22-Jul-2022 10:38:24 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[22-Jul-2022 10:38:24 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[22-Jul-2022 10:38:24 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[22-Jul-2022 10:38:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[27-Jul-2022 02:22:30 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[27-Jul-2022 02:22:30 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[27-Jul-2022 02:22:30 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[27-Jul-2022 02:22:30 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[27-Jul-2022 02:23:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[31-Jul-2022 10:42:28 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[31-Jul-2022 10:42:28 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[31-Jul-2022 10:42:28 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[31-Jul-2022 10:42:28 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[31-Jul-2022 10:42:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[03-Aug-2022 14:28:15 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[03-Aug-2022 14:28:15 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[03-Aug-2022 14:28:15 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[03-Aug-2022 14:28:15 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[03-Aug-2022 14:28:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[05-Aug-2022 04:40:20 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[05-Aug-2022 04:40:20 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[05-Aug-2022 04:40:20 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[05-Aug-2022 04:40:20 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[05-Aug-2022 04:40:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[07-Aug-2022 09:09:52 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[07-Aug-2022 09:09:52 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[07-Aug-2022 09:09:52 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[07-Aug-2022 09:09:52 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[07-Aug-2022 09:10:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[07-Aug-2022 22:14:25 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[07-Aug-2022 22:14:25 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[07-Aug-2022 22:14:25 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[07-Aug-2022 22:14:25 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[07-Aug-2022 22:14:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[09-Aug-2022 04:22:16 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[09-Aug-2022 04:22:16 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[09-Aug-2022 04:22:16 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[09-Aug-2022 04:22:16 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[09-Aug-2022 04:22:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[09-Aug-2022 08:59:47 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[09-Aug-2022 08:59:47 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[09-Aug-2022 08:59:47 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[09-Aug-2022 08:59:47 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[09-Aug-2022 09:00:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[10-Aug-2022 05:54:00 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Aug-2022 05:54:00 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Aug-2022 05:54:00 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Aug-2022 05:54:00 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Aug-2022 05:55:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[10-Aug-2022 06:38:46 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Aug-2022 06:38:46 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Aug-2022 06:38:46 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Aug-2022 06:38:46 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Aug-2022 06:39:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[11-Aug-2022 12:59:41 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Aug-2022 12:59:41 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Aug-2022 12:59:41 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Aug-2022 12:59:41 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Aug-2022 12:59:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[11-Aug-2022 17:05:36 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Aug-2022 17:05:36 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Aug-2022 17:05:36 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Aug-2022 17:05:36 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Aug-2022 17:06:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[12-Aug-2022 21:33:03 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[12-Aug-2022 21:33:03 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[12-Aug-2022 21:33:03 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[12-Aug-2022 21:33:03 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[12-Aug-2022 21:34:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[13-Aug-2022 11:13:10 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[13-Aug-2022 11:13:10 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[13-Aug-2022 11:13:10 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[13-Aug-2022 11:13:10 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[13-Aug-2022 11:14:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[13-Aug-2022 14:38:07 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[13-Aug-2022 14:38:07 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[13-Aug-2022 14:38:07 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[13-Aug-2022 14:38:07 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[13-Aug-2022 14:38:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[13-Aug-2022 21:58:15 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[13-Aug-2022 21:58:15 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[13-Aug-2022 21:58:15 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[13-Aug-2022 21:58:15 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[13-Aug-2022 21:58:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[14-Aug-2022 14:59:59 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Aug-2022 14:59:59 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Aug-2022 14:59:59 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Aug-2022 14:59:59 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Aug-2022 15:00:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[14-Aug-2022 18:50:13 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Aug-2022 18:50:13 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Aug-2022 18:50:13 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Aug-2022 18:50:13 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Aug-2022 18:50:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[14-Aug-2022 20:58:58 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Aug-2022 20:58:58 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Aug-2022 20:58:58 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Aug-2022 20:58:58 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Aug-2022 20:59:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[16-Aug-2022 06:07:37 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[16-Aug-2022 06:07:37 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[16-Aug-2022 06:07:37 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[16-Aug-2022 06:07:37 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[16-Aug-2022 06:07:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[18-Aug-2022 02:49:22 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[18-Aug-2022 02:49:22 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[18-Aug-2022 02:49:22 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[18-Aug-2022 02:49:22 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[18-Aug-2022 02:49:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[21-Aug-2022 07:26:22 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[21-Aug-2022 07:26:22 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[21-Aug-2022 07:26:22 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[21-Aug-2022 07:26:22 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[21-Aug-2022 07:26:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[23-Aug-2022 00:22:04 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[23-Aug-2022 00:22:04 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[23-Aug-2022 00:22:04 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[23-Aug-2022 00:22:04 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[23-Aug-2022 00:23:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[23-Aug-2022 15:34:03 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[23-Aug-2022 15:34:03 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[23-Aug-2022 15:34:03 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[23-Aug-2022 15:34:03 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[23-Aug-2022 15:34:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[23-Aug-2022 18:40:40 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[23-Aug-2022 18:40:40 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[23-Aug-2022 18:40:40 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[23-Aug-2022 18:40:40 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[23-Aug-2022 18:41:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[25-Aug-2022 02:51:06 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[25-Aug-2022 02:51:06 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[25-Aug-2022 02:51:06 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[25-Aug-2022 02:51:06 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[25-Aug-2022 02:51:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[30-Aug-2022 20:07:47 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[30-Aug-2022 20:07:47 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[30-Aug-2022 20:07:47 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[30-Aug-2022 20:07:47 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[30-Aug-2022 20:09:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[31-Aug-2022 23:14:27 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[31-Aug-2022 23:14:27 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[31-Aug-2022 23:14:27 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[31-Aug-2022 23:14:27 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[31-Aug-2022 23:14:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[03-Sep-2022 14:56:31 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[03-Sep-2022 14:56:31 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[03-Sep-2022 14:56:31 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[03-Sep-2022 14:56:31 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[03-Sep-2022 14:58:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[03-Sep-2022 20:36:44 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[03-Sep-2022 20:36:44 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[03-Sep-2022 20:36:44 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[03-Sep-2022 20:36:44 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[03-Sep-2022 20:38:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[04-Sep-2022 06:06:32 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[04-Sep-2022 06:06:32 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[04-Sep-2022 06:06:32 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[04-Sep-2022 06:06:32 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[04-Sep-2022 06:07:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[04-Sep-2022 11:55:17 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[04-Sep-2022 11:55:17 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[04-Sep-2022 11:55:17 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[04-Sep-2022 11:55:17 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[04-Sep-2022 11:56:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[05-Sep-2022 20:20:29 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[05-Sep-2022 20:20:29 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[05-Sep-2022 20:20:29 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[05-Sep-2022 20:20:29 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[05-Sep-2022 20:23:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[06-Sep-2022 18:19:08 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[06-Sep-2022 18:19:08 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[06-Sep-2022 18:19:08 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[06-Sep-2022 18:19:08 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[06-Sep-2022 18:19:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[08-Sep-2022 12:05:05 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Sep-2022 12:05:05 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Sep-2022 12:05:05 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Sep-2022 12:05:05 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Sep-2022 12:05:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[08-Sep-2022 12:28:08 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Sep-2022 12:28:08 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Sep-2022 12:28:08 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Sep-2022 12:28:08 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Sep-2022 12:28:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[09-Sep-2022 10:43:23 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[09-Sep-2022 10:43:23 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[09-Sep-2022 10:43:23 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[09-Sep-2022 10:43:23 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[09-Sep-2022 10:43:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[10-Sep-2022 20:52:59 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Sep-2022 20:52:59 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Sep-2022 20:52:59 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Sep-2022 20:52:59 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Sep-2022 20:53:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[11-Sep-2022 12:37:52 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Sep-2022 12:37:53 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Sep-2022 12:37:53 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Sep-2022 12:37:53 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Sep-2022 12:38:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[11-Sep-2022 21:29:06 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Sep-2022 21:29:06 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Sep-2022 21:29:06 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Sep-2022 21:29:06 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Sep-2022 21:29:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[13-Sep-2022 00:08:17 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[13-Sep-2022 00:08:17 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[13-Sep-2022 00:08:17 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[13-Sep-2022 00:08:17 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[13-Sep-2022 00:08:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[14-Sep-2022 08:36:53 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Sep-2022 08:36:53 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Sep-2022 08:36:53 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Sep-2022 08:36:53 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Sep-2022 08:37:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[14-Sep-2022 10:20:09 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Sep-2022 10:20:09 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Sep-2022 10:20:09 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Sep-2022 10:20:09 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Sep-2022 10:20:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[14-Sep-2022 18:09:52 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Sep-2022 18:09:52 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Sep-2022 18:09:52 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Sep-2022 18:09:52 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Sep-2022 18:10:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[17-Sep-2022 11:02:08 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[17-Sep-2022 11:02:08 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[17-Sep-2022 11:02:08 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[17-Sep-2022 11:02:08 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[17-Sep-2022 11:02:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[24-Sep-2022 00:01:20 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[24-Sep-2022 00:01:20 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[24-Sep-2022 00:01:20 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[24-Sep-2022 00:01:20 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[24-Sep-2022 00:01:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[25-Sep-2022 05:59:28 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[25-Sep-2022 05:59:28 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[25-Sep-2022 05:59:28 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[25-Sep-2022 05:59:28 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[25-Sep-2022 05:59:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[28-Sep-2022 12:22:57 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[28-Sep-2022 12:22:57 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[28-Sep-2022 12:22:57 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[28-Sep-2022 12:22:57 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[28-Sep-2022 12:23:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[28-Sep-2022 19:13:42 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[28-Sep-2022 19:13:42 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[28-Sep-2022 19:13:42 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[28-Sep-2022 19:13:42 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[28-Sep-2022 19:13:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[29-Sep-2022 04:00:17 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[29-Sep-2022 04:00:17 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[29-Sep-2022 04:00:17 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[29-Sep-2022 04:00:17 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[29-Sep-2022 04:00:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[29-Sep-2022 23:55:29 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[29-Sep-2022 23:55:29 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[29-Sep-2022 23:55:29 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[29-Sep-2022 23:55:29 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[29-Sep-2022 23:55:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[30-Sep-2022 04:29:43 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[30-Sep-2022 04:29:43 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[30-Sep-2022 04:29:43 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[30-Sep-2022 04:29:43 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[30-Sep-2022 04:30:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[05-Oct-2022 16:28:33 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[05-Oct-2022 16:28:33 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[05-Oct-2022 16:28:33 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[05-Oct-2022 16:28:33 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[05-Oct-2022 16:29:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[06-Oct-2022 15:01:10 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[06-Oct-2022 15:01:10 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[06-Oct-2022 15:01:10 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[06-Oct-2022 15:01:10 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[06-Oct-2022 15:02:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[06-Oct-2022 15:29:11 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[06-Oct-2022 15:29:11 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[06-Oct-2022 15:29:11 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[06-Oct-2022 15:29:11 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[06-Oct-2022 15:29:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[08-Oct-2022 19:28:44 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Oct-2022 19:28:44 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Oct-2022 19:28:44 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Oct-2022 19:28:44 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Oct-2022 19:29:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[09-Oct-2022 22:40:16 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[09-Oct-2022 22:40:16 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[09-Oct-2022 22:40:16 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[09-Oct-2022 22:40:16 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[09-Oct-2022 22:40:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[09-Oct-2022 23:55:31 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[09-Oct-2022 23:55:31 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[09-Oct-2022 23:55:31 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[09-Oct-2022 23:55:31 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[09-Oct-2022 23:55:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[10-Oct-2022 18:03:29 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Oct-2022 18:03:29 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Oct-2022 18:03:29 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Oct-2022 18:03:29 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Oct-2022 18:04:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[11-Oct-2022 08:28:43 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Oct-2022 08:28:43 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Oct-2022 08:28:43 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Oct-2022 08:28:43 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Oct-2022 08:29:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[11-Oct-2022 15:57:34 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Oct-2022 15:57:34 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Oct-2022 15:57:34 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Oct-2022 15:57:34 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Oct-2022 15:57:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[13-Oct-2022 07:43:03 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[13-Oct-2022 07:43:03 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[13-Oct-2022 07:43:03 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[13-Oct-2022 07:43:03 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[13-Oct-2022 07:43:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[14-Oct-2022 04:13:38 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Oct-2022 04:13:38 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Oct-2022 04:13:38 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Oct-2022 04:13:38 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Oct-2022 04:13:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[15-Oct-2022 18:44:19 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[15-Oct-2022 18:44:19 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[15-Oct-2022 18:44:19 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[15-Oct-2022 18:44:19 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[15-Oct-2022 18:45:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[17-Oct-2022 07:43:42 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[17-Oct-2022 07:43:42 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[17-Oct-2022 07:43:42 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[17-Oct-2022 07:43:42 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[17-Oct-2022 07:43:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[17-Oct-2022 08:42:31 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[17-Oct-2022 08:42:31 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[17-Oct-2022 08:42:31 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[17-Oct-2022 08:42:31 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[17-Oct-2022 08:43:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[26-Oct-2022 02:23:35 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[26-Oct-2022 02:23:35 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[26-Oct-2022 02:23:35 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[26-Oct-2022 02:23:35 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[26-Oct-2022 02:23:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[26-Oct-2022 08:36:39 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[26-Oct-2022 08:36:39 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[26-Oct-2022 08:36:39 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[26-Oct-2022 08:36:39 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[26-Oct-2022 08:37:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[27-Oct-2022 00:05:37 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[27-Oct-2022 00:05:37 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[27-Oct-2022 00:05:37 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[27-Oct-2022 00:05:37 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[27-Oct-2022 00:05:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[27-Oct-2022 09:55:30 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[27-Oct-2022 09:55:30 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[27-Oct-2022 09:55:30 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[27-Oct-2022 09:55:30 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[27-Oct-2022 09:57:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[28-Oct-2022 02:10:59 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[28-Oct-2022 02:10:59 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[28-Oct-2022 02:10:59 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[28-Oct-2022 02:10:59 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[28-Oct-2022 02:11:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[28-Oct-2022 15:57:32 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[28-Oct-2022 15:57:32 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[28-Oct-2022 15:57:32 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[28-Oct-2022 15:57:32 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[28-Oct-2022 15:59:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[29-Oct-2022 21:12:45 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[29-Oct-2022 21:12:45 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[29-Oct-2022 21:12:45 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[29-Oct-2022 21:12:45 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[29-Oct-2022 21:12:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[01-Nov-2022 23:57:40 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[01-Nov-2022 23:57:40 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[01-Nov-2022 23:57:40 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[01-Nov-2022 23:57:40 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[01-Nov-2022 23:59:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[02-Nov-2022 01:25:21 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[02-Nov-2022 01:25:21 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[02-Nov-2022 01:25:21 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[02-Nov-2022 01:25:21 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[02-Nov-2022 01:25:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[04-Nov-2022 14:16:03 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[04-Nov-2022 14:16:03 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[04-Nov-2022 14:16:03 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[04-Nov-2022 14:16:03 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[04-Nov-2022 14:16:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[04-Nov-2022 15:39:58 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[04-Nov-2022 15:39:58 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[04-Nov-2022 15:39:58 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[04-Nov-2022 15:39:58 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[04-Nov-2022 15:40:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[04-Nov-2022 18:59:14 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[04-Nov-2022 18:59:14 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[04-Nov-2022 18:59:14 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[04-Nov-2022 18:59:14 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[04-Nov-2022 18:59:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[06-Nov-2022 05:38:11 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[06-Nov-2022 05:38:11 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[06-Nov-2022 05:38:11 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[06-Nov-2022 05:38:11 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[06-Nov-2022 05:38:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[07-Nov-2022 14:45:41 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[07-Nov-2022 14:45:41 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[07-Nov-2022 14:45:41 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[07-Nov-2022 14:45:41 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[07-Nov-2022 14:46:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[08-Nov-2022 02:43:25 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Nov-2022 02:43:25 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Nov-2022 02:43:25 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Nov-2022 02:43:25 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Nov-2022 02:43:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[08-Nov-2022 22:25:10 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Nov-2022 22:25:10 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Nov-2022 22:25:10 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Nov-2022 22:25:10 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[08-Nov-2022 22:25:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[10-Nov-2022 03:33:39 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Nov-2022 03:33:39 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Nov-2022 03:33:39 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Nov-2022 03:33:39 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[10-Nov-2022 03:34:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[11-Nov-2022 18:56:02 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Nov-2022 18:56:02 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Nov-2022 18:56:02 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Nov-2022 18:56:02 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Nov-2022 18:56:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[11-Nov-2022 23:03:16 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Nov-2022 23:03:16 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Nov-2022 23:03:16 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Nov-2022 23:03:16 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[11-Nov-2022 23:04:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[12-Nov-2022 23:39:43 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[12-Nov-2022 23:39:43 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[12-Nov-2022 23:39:43 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[12-Nov-2022 23:39:43 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[12-Nov-2022 23:40:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[14-Nov-2022 11:26:39 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Nov-2022 11:26:39 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Nov-2022 11:26:39 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Nov-2022 11:26:39 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[14-Nov-2022 11:27:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[16-Nov-2022 06:00:42 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[16-Nov-2022 06:00:42 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[16-Nov-2022 06:00:42 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[16-Nov-2022 06:00:42 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/latinxt/public_html/wp-includes/class-wp-http.php on line 11
+[16-Nov-2022 06:00:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/latinxt/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/latinxt/public_html/wp-includes/template-canvas.php on line 12
+[02-Dec-2022 00:11:17 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ldd36fez9zl9/public_html/wp-includes/compat.php on line 337
+[02-Dec-2022 00:11:17 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ldd36fez9zl9/public_html/wp-includes/compat.php on line 337
+[02-Dec-2022 00:11:17 UTC] PHP Warning:  require(ABSPATHWPINC/sodium_compat/autoload.php): failed to open stream: No such file or directory in /home/ldd36fez9zl9/public_html/wp-includes/compat.php on line 337
+[02-Dec-2022 00:11:17 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/sodium_compat/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ldd36fez9zl9/public_html/wp-includes/compat.php on line 337
+[10-Apr-2023 05:28:35 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ldd36fez9zl9/public_html/wp-includes/functions.php on line 8
+[10-Apr-2023 05:28:35 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ldd36fez9zl9/public_html/wp-includes/functions.php on line 8
+[10-Apr-2023 05:28:35 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/ldd36fez9zl9/public_html/wp-includes/functions.php on line 8
+[10-Apr-2023 05:28:35 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ldd36fez9zl9/public_html/wp-includes/functions.php on line 8
